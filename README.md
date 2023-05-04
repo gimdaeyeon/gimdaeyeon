@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 <div align="center">
   
 ![gimdaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimdaeyeon&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimdaeyeon&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimdaeyeon&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimdaeyeon&layout=compact&theme=ocean_dark&langs_count=6&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
