@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 
 <div align="right">
   
-[![gimdaeyeon](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
-   
+ [![](https://visitcount.itsvg.in/api?id=gimdaeyeon&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 <!--
