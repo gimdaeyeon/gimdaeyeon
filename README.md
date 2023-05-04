@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 # GitHub Stats
 <div align="center">
   
-![refactoringK's GitHub stats](https://github-readme-stats.vercel.app/api?username=refactoringK&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refactoringK&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![gimdaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimdaeyeon&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimdaeyeon&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--
-**refactoringK/refactoringK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gimdaeyeon/gimdaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
