@@ -43,14 +43,15 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimdaeyeon&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimdaeyeon&layout=compact&theme=ocean_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaeodus1306)](https://solved.ac/rlaeodus1306)
 </div>
 
 <div align="right">
   
  [![](https://visitcount.itsvg.in/api?id=gimdaeyeon&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 </div>
-
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaeodus1306)](https://solved.ac/rlaeodus1306)
+</div>
 
 <!--
 **gimdaeyeon/gimdaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
