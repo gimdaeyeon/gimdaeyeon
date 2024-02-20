@@ -1,7 +1,7 @@
 
 # Project
-- ### [JSP프로젝트 CookPang](https://github.com/gimdaeyeon/cookpang#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A6%84--cookpang---jsp-project)
-- ### [Spring boot 프로젝트 Happy pet's day](https://github.com/gimdaeyeon/Happy_pets_day#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A6%84--happy-pets-day---spring-boot-project)
+- ### [JSP프로젝트 CookPang](https://github.com/gimdaeyeon/cookpang#프로젝트-주제)
+- ### [Spring boot 프로젝트 Happy pet's day](https://github.com/gimdaeyeon/Happy_pets_day#팀명--npe-단속반)
 - ### [Spring Data JPA 프로젝트 Spotick(진행중)](https://github.com/gimdaeyeon/spotick)
 
 
