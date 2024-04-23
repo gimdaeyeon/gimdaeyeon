@@ -2,7 +2,7 @@
 # Project
 - ### [JSP 프로젝트 CookPang](https://github.com/gimdaeyeon/cookpang?tab=readme-ov-file#프로젝트-주제)
 - ### [Spring boot 프로젝트 Happy pet's day](https://github.com/gimdaeyeon/Happy_pets_day?tab=readme-ov-file#팀명--npe-단속반)
-- ### [Spring Data JPA 프로젝트 Spotick(진행중)](https://github.com/gimdaeyeon/spotick)
+- ### [Spring Data JPA 프로젝트 Spotick](https://github.com/gimdaeyeon/spotick)
 
 
 # Tech Stack :
